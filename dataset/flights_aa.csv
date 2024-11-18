@@ -1,0 +1,201 @@
+,Date,Airline Name,Arrival Airport,airport_name,Delay due to Airline in Mins,Delay due to Weather in Mins,Delay due to NAS in Mins,Delay due to Security in Mins,Delay due to Late Aircraft in Mins,# of Airline Delays,# of Weather Delays,# of NAS Delays,# of Security Delays,# of Late Aircraft Delays
+0,12/2022,SkyWest Airlines Inc.,SLN,"Salina, KS: Salina Regional",490.0,321.0,0.0,0.0,248.0,5.0,3.0,0.0,0.0,9.0
+1,12/2023,Southwest Airlines,BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",13084.0,279.0,7156.0,247.0,27196.0,331.47,5.36,247.99,9.25,552.94
+2,11/2021,Frontier Airlines,OMA,"Omaha, NE: Eppley Airfield",94.0,0.0,103.0,0.0,235.0,2.81,0.0,2.81,0.0,1.38
+3,12/2022,SkyWest Airlines Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",390.0,1515.0,0.0,0.0,27.0,10.0,15.0,0.0,0.0,1.0
+4,11/2022,SkyWest Airlines Inc.,HLN,"Helena, MT: Helena Regional",909.0,0.0,0.0,0.0,64.0,2.0,0.0,0.0,0.0,1.0
+5,11/2023,Horizon Air,PDX,"Portland, OR: Portland International",1875.0,155.0,873.0,0.0,3070.0,18.76,2.81,22.8,0.0,45.63
+6,11/2023,Alaska Airlines Network,CHS,"Charleston, SC: Charleston AFB/International",153.0,75.0,88.0,0.0,13.0,1.47,0.83,2.3,0.0,0.39
+7,11/2023,Mesa Airlines Inc.,STL,"St. Louis, MO: St Louis Lambert International",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,12/2022,Delta Air Lines Network,OMA,"Omaha, NE: Eppley Airfield",1511.0,7.0,86.0,0.0,179.0,13.69,0.18,1.7,0.0,4.44
+9,11/2022,United Air Lines Network,SPN,"Saipan, TT: Francisco C. Ada Saipan International",6.0,0.0,12.0,0.0,0.0,0.33,0.0,0.67,0.0,0.0
+10,11/2023,American Airlines Network,SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",1146.0,26.0,193.0,0.0,1271.0,18.26,0.1,7.61,0.0,18.02
+11,12/2021,American Airlines Network,FAT,"Fresno, CA: Fresno Yosemite International",748.0,0.0,68.0,0.0,148.0,10.71,0.0,1.83,0.0,2.46
+12,11/2021,Endeavor Air Inc.,BTV,"Burlington, VT: Burlington International",326.0,157.0,112.0,0.0,96.0,3.83,1.75,3.71,0.0,1.71
+13,11/2022,Allegiant Air,LCK,"Columbus, OH: Rickenbacker International",336.0,560.0,631.0,0.0,267.0,5.11,2.0,3.03,0.0,4.85
+14,11/2021,Mesa Airlines Inc.,DSM,"Des Moines, IA: Des Moines International",831.0,0.0,26.0,0.0,187.0,10.0,0.0,1.0,0.0,3.0
+15,12/2022,Mesa Airlines Inc.,TUS,"Tucson, AZ: Tucson International",143.0,0.0,226.0,0.0,0.0,3.0,0.0,2.0,0.0,0.0
+16,12/2023,Piedmont Airlines,EWN,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",114.0,0.0,129.0,0.0,435.0,2.11,0.0,4.04,0.0,4.85
+17,12/2021,Republic Airline,PVD,"Providence, RI: Theodore Francis Green State",284.0,251.0,120.0,0.0,385.0,4.8,3.35,3.93,0.0,6.92
+18,12/2023,Southwest Airlines,SBA,"Santa Barbara, CA: Santa Barbara Municipal",389.0,0.0,97.0,0.0,403.0,11.13,0.0,2.67,0.0,9.2
+19,12/2022,American Airlines Network,RNO,"Reno, NV: Reno/Tahoe International",359.0,1358.0,412.0,0.0,1255.0,10.7,7.62,13.66,0.0,19.02
+20,12/2023,Spirit Airlines,ACY,"Atlantic City, NJ: Atlantic City International",1096.0,15.0,1297.0,0.0,2276.0,22.15,0.63,24.31,0.0,22.92
+21,11/2023,Republic Airline,DSM,"Des Moines, IA: Des Moines International",8.0,0.0,109.0,0.0,83.0,0.32,0.0,3.78,0.0,1.9
+22,12/2021,Mesa Airlines Inc.,IAD,"Washington, DC: Washington Dulles International",4029.0,0.0,257.0,0.0,4622.0,54.0,0.0,12.0,0.0,58.0
+23,12/2022,PSA Airlines Inc.,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",80.0,0.0,55.0,0.0,0.0,2.11,0.0,1.89,0.0,0.0
+24,12/2023,SkyWest Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",546.0,192.0,283.0,0.0,154.0,9.69,1.0,8.14,0.0,5.17
+25,12/2023,Delta Air Lines Network,BNA,"Nashville, TN: Nashville International",2287.0,0.0,516.0,0.0,980.0,37.49,0.0,14.47,0.0,9.04
+26,11/2023,Republic Airline,MHT,"Manchester, NH: Manchester Boston Regional",115.0,0.0,10.0,0.0,212.0,2.72,0.0,0.45,0.0,1.84
+27,11/2022,SkyWest Airlines Inc.,LGB,"Long Beach, CA: Long Beach Airport",1337.0,196.0,0.0,0.0,0.0,15.0,6.0,0.0,0.0,0.0
+28,11/2023,Delta Air Lines Network,HPN,"White Plains, NY: Westchester County",212.0,0.0,236.0,0.0,820.0,3.22,0.0,7.87,0.0,7.91
+29,11/2021,Spirit Airlines,IND,"Indianapolis, IN: Indianapolis International",478.0,26.0,556.0,62.0,252.0,12.61,0.74,11.85,2.23,7.56
+30,11/2022,American Airlines Network,ILM,"Wilmington, NC: Wilmington International",1084.0,0.0,130.0,19.0,1859.0,14.46,0.0,2.39,0.19,17.95
+31,12/2021,"Commutair Aka Champlain Enterprises, Inc.",PNS,"Pensacola, FL: Pensacola International",677.0,97.0,186.0,0.0,56.0,11.47,0.92,7.13,0.0,1.48
+32,11/2023,Air Wisconsin Airlines Corp,CAE,"Columbia, SC: Columbia Metropolitan",794.0,101.0,65.0,0.0,2309.0,3.69,1.0,2.93,0.0,7.38
+33,12/2021,SkyWest Airlines Inc.,EAU,"Eau Claire, WI: Chippewa Valley Regional",214.0,0.0,0.0,0.0,244.0,4.0,0.0,0.0,0.0,2.0
+34,11/2022,PSA Airlines Inc.,AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,12/2021,United Air Lines Network,HNL,"Honolulu, HI: Daniel K Inouye International",3271.0,199.0,1177.0,0.0,1395.0,78.19,0.71,31.95,0.0,17.16
+36,12/2022,JetBlue Airways,BUF,"Buffalo, NY: Buffalo Niagara International",3518.0,42.0,456.0,0.0,1414.0,46.91,0.59,13.12,0.0,22.38
+37,11/2022,Southwest Airlines,BHM,"Birmingham, AL: Birmingham-Shuttlesworth International",1210.0,0.0,411.0,0.0,845.0,27.21,0.0,8.63,0.0,23.16
+38,11/2022,Envoy Air,OMA,"Omaha, NE: Eppley Airfield",115.0,110.0,222.0,0.0,67.0,1.93,2.18,6.88,0.0,2.01
+39,12/2021,American Airlines Network,GSO,"Greensboro/High Point, NC: Piedmont Triad International",176.0,0.0,29.0,0.0,206.0,5.83,0.0,1.29,0.0,3.88
+40,11/2021,GoJet Airlines LLC d/b/a United Express,ORF,"Norfolk, VA: Norfolk International",593.0,0.0,84.0,0.0,149.0,7.18,0.0,3.22,0.0,1.6
+41,12/2021,Republic Airline,TVC,"Traverse City, MI: Cherry Capital",84.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+42,11/2022,SkyWest Airlines Inc.,MFR,"Medford, OR: Rogue Valley International - Medford",2349.0,781.0,0.0,0.0,115.0,31.0,8.0,0.0,0.0,3.0
+43,12/2021,SkyWest Airlines Inc.,TVC,"Traverse City, MI: Cherry Capital",477.0,0.0,0.0,0.0,445.0,5.0,0.0,0.0,0.0,5.0
+44,12/2023,Allegiant Air,XNA,"Fayetteville, AR: Northwest Arkansas National",395.0,0.0,210.0,0.0,500.0,8.69,0.0,5.32,0.0,7.98
+45,12/2023,Republic Airline,TVC,"Traverse City, MI: Cherry Capital",0.0,0.0,16.0,0.0,54.0,0.0,0.0,1.0,0.0,1.0
+46,11/2021,"Commutair Aka Champlain Enterprises, Inc.",OKC,"Oklahoma City, OK: Will Rogers World",180.0,0.0,97.0,0.0,15.0,3.19,0.0,2.52,0.0,0.28
+47,12/2022,SkyWest Airlines Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",2630.0,265.0,0.0,0.0,0.0,26.0,6.0,0.0,0.0,0.0
+48,12/2022,Endeavor Air Inc.,DHN,"Dothan, AL: Dothan Regional",215.0,202.0,108.0,0.0,100.0,3.23,1.33,1.39,0.0,2.05
+49,12/2021,"Commutair Aka Champlain Enterprises, Inc.",LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field",543.0,52.0,39.0,0.0,553.0,6.93,0.25,1.51,0.0,4.31
+50,11/2022,Allegiant Air,BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",210.0,0.0,0.0,0.0,33.0,1.0,0.0,0.0,0.0,1.0
+51,12/2022,JetBlue Airways,RSW,"Fort Myers, FL: Southwest Florida International",4852.0,40.0,1346.0,132.0,3438.0,62.79,1.0,27.62,2.58,35.02
+52,12/2022,Allegiant Air,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",125.0,0.0,8.0,0.0,189.0,1.06,0.0,0.19,0.0,3.75
+53,11/2021,SkyWest Airlines Inc.,MSN,"Madison, WI: Dane County Regional-Truax Field",3112.0,261.0,0.0,0.0,1251.0,39.0,5.0,0.0,0.0,14.0
+54,11/2022,Delta Air Lines Network,BOS,"Boston, MA: Logan International",8859.0,451.0,2848.0,0.0,4299.0,93.07,5.71,81.25,0.0,69.97
+55,12/2022,PSA Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",39.0,0.0,66.0,0.0,283.0,1.04,0.0,2.19,0.0,2.77
+56,11/2021,Hawaiian Airlines Network,KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole",1030.0,0.0,0.0,0.0,93.0,11.98,0.0,0.0,0.0,2.02
+57,11/2022,Allegiant Air,PBG,"Plattsburgh, NY: Plattsburgh International",214.0,304.0,64.0,0.0,24.0,3.76,1.0,2.24,0.0,1.0
+58,12/2023,GoJet Airlines LLC d/b/a United Express,PVD,"Providence, RI: Rhode Island Tf Green International",107.0,752.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0
+59,12/2021,Allegiant Air,ELP,"El Paso, TX: El Paso International",38.0,0.0,19.0,0.0,101.0,1.68,0.0,1.0,0.0,1.32
+60,12/2021,"Commutair Aka Champlain Enterprises, Inc.",GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",313.0,173.0,75.0,0.0,142.0,5.21,0.9,0.93,0.0,0.96
+61,12/2022,Frontier Airlines,CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",69.0,80.0,92.0,0.0,180.0,2.02,1.09,1.38,0.0,1.51
+62,11/2021,PSA Airlines Inc.,SDF,"Louisville, KY: Louisville Muhammad Ali International",142.0,0.0,279.0,0.0,314.0,4.74,0.0,7.44,0.0,7.82
+63,12/2023,PSA Airlines Inc.,MSY,"New Orleans, LA: Louis Armstrong New Orleans International",25.0,0.0,58.0,0.0,26.0,1.05,0.0,1.32,0.0,0.63
+64,12/2022,JetBlue Airways,MCI,"Kansas City, MO: Kansas City International",1164.0,0.0,18.0,0.0,815.0,13.5,0.0,0.62,0.0,5.88
+65,12/2021,Endeavor Air Inc.,GFK,"Grand Forks, ND: Grand Forks International",362.0,139.0,127.0,0.0,34.0,2.59,0.86,3.35,0.0,1.2
+66,12/2022,United Air Lines Network,CLT,"Charlotte, NC: Charlotte Douglas International",2675.0,344.0,521.0,0.0,3687.0,36.01,1.96,13.28,0.0,40.74
+67,11/2022,Allegiant Air,TUL,"Tulsa, OK: Tulsa International",155.0,0.0,366.0,0.0,87.0,3.0,0.0,3.41,0.0,2.6
+68,12/2022,Southwest Airlines,BLI,"Bellingham, WA: Bellingham International",466.0,0.0,80.0,0.0,790.0,9.15,0.0,1.56,0.0,11.29
+69,12/2021,JetBlue Airways,SEA,"Seattle, WA: Seattle/Tacoma International",588.0,69.0,959.0,3.0,357.0,9.02,0.39,23.36,0.04,3.2
+70,11/2021,Endeavor Air Inc.,AEX,"Alexandria, LA: Alexandria International",7.0,0.0,11.0,0.0,0.0,0.39,0.0,0.61,0.0,0.0
+71,11/2022,Endeavor Air Inc.,SDF,"Louisville, KY: Louisville Muhammad Ali International",95.0,0.0,50.0,0.0,273.0,2.17,0.0,2.4,0.0,3.43
+72,11/2021,Delta Air Lines Network,DAB,"Daytona Beach, FL: Daytona Beach International",232.0,0.0,75.0,197.0,71.0,6.26,0.0,3.4,2.0,3.34
+73,12/2022,Allegiant Air,CKB,"Clarksburg/Fairmont, WV: North Central West Virginia",166.0,0.0,3.0,0.0,233.0,3.26,0.0,0.19,0.0,4.55
+74,12/2022,Allegiant Air,OWB,"Owensboro, KY: Owensboro Daviess County Regional",49.0,0.0,0.0,0.0,56.0,1.54,0.0,0.0,0.0,1.46
+75,12/2022,Alaska Airlines Network,MCI,"Kansas City, MO: Kansas City International",620.0,20.0,203.0,0.0,437.0,8.88,1.0,6.15,0.0,7.97
+76,12/2023,SkyWest Airlines Inc.,STS,"Santa Rosa, CA: Charles M. Schulz - Sonoma County",339.0,5.0,413.0,0.0,605.0,8.41,0.16,16.96,0.0,18.48
+77,11/2021,Endeavor Air Inc.,SDF,"Louisville, KY: Louisville Muhammad Ali International",0.0,0.0,44.0,0.0,30.0,0.0,0.0,2.0,0.0,1.0
+78,12/2021,United Air Lines Network,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",1982.0,15.0,820.0,0.0,2010.0,43.8,0.26,24.22,0.0,29.72
+79,12/2022,PSA Airlines Inc.,SYR,"Syracuse, NY: Syracuse Hancock International",308.0,53.0,38.0,0.0,108.0,4.64,1.27,1.14,0.0,2.96
+80,12/2022,Envoy Air,FAR,"Fargo, ND: Hector International",25.0,1006.0,557.0,0.0,437.0,1.0,4.39,11.05,0.0,3.55
+81,11/2021,JetBlue Airways,SEA,"Seattle, WA: Seattle/Tacoma International",516.0,0.0,161.0,0.0,0.0,8.32,0.0,6.68,0.0,0.0
+82,12/2023,PSA Airlines Inc.,MHT,"Manchester, NH: Manchester Boston Regional",406.0,50.0,119.0,0.0,255.0,7.46,1.16,4.79,0.0,4.59
+83,11/2021,Southwest Airlines,BDL,"Hartford, CT: Bradley International",1157.0,0.0,327.0,0.0,800.0,31.54,0.0,10.03,0.0,20.43
+84,12/2023,Spirit Airlines,TPA,"Tampa, FL: Tampa International",3190.0,49.0,3939.0,68.0,3070.0,45.6,2.2,79.08,1.0,40.13
+85,12/2023,Piedmont Airlines,MHT,"Manchester, NH: Manchester Boston Regional",127.0,0.0,3.0,0.0,39.0,2.0,0.0,0.07,0.0,0.93
+86,12/2023,Endeavor Air Inc.,SGF,"Springfield, MO: Springfield-Branson National",69.0,40.0,20.0,0.0,21.0,3.0,1.0,1.0,0.0,1.0
+87,12/2023,United Air Lines Network,EUG,"Eugene, OR: Mahlon Sweet Field",276.0,0.0,92.0,0.0,412.0,5.07,0.0,3.22,0.0,4.71
+88,12/2023,Mesa Airlines Inc.,CMH,"Columbus, OH: John Glenn Columbus International",81.0,0.0,15.0,0.0,27.0,2.18,0.0,1.0,0.0,0.82
+89,11/2023,Envoy Air,LEX,"Lexington, KY: Blue Grass",22.0,0.0,13.0,0.0,0.0,1.35,0.0,0.65,0.0,0.0
+90,11/2022,Frontier Airlines,ORD,"Chicago, IL: Chicago O'Hare International",165.0,120.0,0.0,0.0,41.0,2.0,1.0,0.0,0.0,1.0
+91,12/2022,SkyWest Airlines Inc.,LAS,"Las Vegas, NV: Harry Reid International",66.0,300.0,76.0,0.0,407.0,2.0,2.0,2.0,0.0,6.0
+92,12/2021,Spirit Airlines,ORD,"Chicago, IL: Chicago O'Hare International",2735.0,91.0,2068.0,28.0,2286.0,45.7,2.53,45.98,0.78,36.01
+93,12/2022,Envoy Air,SAV,"Savannah, GA: Savannah/Hilton Head International",129.0,0.0,12.0,0.0,376.0,1.69,0.0,0.42,0.0,2.9
+94,11/2023,United Air Lines Network,SBP,"San Luis Obispo, CA: San Luis County Regional",92.0,0.0,15.0,0.0,267.0,1.67,0.0,0.49,0.0,5.85
+95,11/2023,American Airlines Network,IAH,"Houston, TX: George Bush Intercontinental/Houston",1901.0,81.0,800.0,72.0,1929.0,23.37,0.83,26.96,2.0,28.84
+96,12/2022,United Air Lines Network,SLC,"Salt Lake City, UT: Salt Lake City International",2088.0,38.0,171.0,0.0,1963.0,32.14,1.0,5.38,0.0,21.49
+97,11/2023,GoJet Airlines LLC d/b/a United Express,BTV,"Burlington, VT: Burlington International",97.0,0.0,17.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0
+98,12/2021,Delta Air Lines Network,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",2278.0,39.0,1700.0,33.0,1175.0,37.24,1.27,34.07,1.0,22.43
+99,11/2021,American Airlines Network,MSP,"Minneapolis, MN: Minneapolis-St Paul International",3731.0,20.0,284.0,93.0,1765.0,52.44,0.26,10.68,1.25,27.37
+100,12/2023,Frontier Airlines,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",5733.0,31.0,3171.0,0.0,8756.0,68.22,0.42,80.01,0.0,117.35
+101,11/2021,Frontier Airlines,SFO,"San Francisco, CA: San Francisco International",454.0,0.0,194.0,0.0,428.0,7.54,0.0,4.15,0.0,8.31
+102,11/2022,American Airlines Network,AUS,"Austin, TX: Austin - Bergstrom International",6047.0,483.0,5490.0,74.0,12927.0,95.85,2.9,147.81,2.32,124.11
+103,12/2023,Spirit Airlines,RNO,"Reno, NV: Reno/Tahoe International",116.0,0.0,237.0,37.0,172.0,2.31,0.0,3.96,1.0,2.72
+104,12/2023,SkyWest Airlines Inc.,JAX,"Jacksonville, FL: Jacksonville International",41.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+105,12/2022,Allegiant Air,SNA,"Santa Ana, CA: John Wayne Airport-Orange County",379.0,98.0,483.0,0.0,778.0,6.24,2.43,7.86,0.0,9.47
+106,12/2022,Delta Air Lines Network,STT,"Charlotte Amalie, VI: Cyril E King",612.0,124.0,128.0,0.0,55.0,8.8,2.0,4.6,0.0,1.6
+107,11/2021,Mesa Airlines Inc.,CHS,"Charleston, SC: Charleston AFB/International",326.0,0.0,16.0,0.0,110.0,5.0,0.0,1.0,0.0,1.0
+108,11/2021,"Commutair Aka Champlain Enterprises, Inc.",LNK,"Lincoln, NE: Lincoln Airport",399.0,0.0,68.0,0.0,873.0,6.19,0.0,1.73,0.0,6.09
+109,12/2023,GoJet Airlines LLC d/b/a United Express,ALB,"Albany, NY: Albany International",16.0,0.0,0.0,0.0,69.0,0.19,0.0,0.0,0.0,0.81
+110,12/2023,American Airlines Network,TYS,"Knoxville, TN: McGhee Tyson",270.0,0.0,79.0,0.0,62.0,4.61,0.0,2.62,0.0,2.77
+111,11/2021,SkyWest Airlines Inc.,ATY,"Watertown, SD: Watertown Regional",1049.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0
+112,12/2022,PSA Airlines Inc.,JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",232.0,32.0,474.0,0.0,299.0,3.49,0.49,13.55,0.0,5.47
+113,12/2021,Envoy Air,SBP,"San Luis Obispo, CA: San Luis County Regional",104.0,47.0,147.0,0.0,214.0,3.03,1.73,6.66,0.0,2.58
+114,11/2021,JetBlue Airways,MCO,"Orlando, FL: Orlando International",9930.0,110.0,2288.0,84.0,5380.0,154.2,0.95,66.93,3.48,71.45
+115,11/2022,GoJet Airlines LLC d/b/a United Express,FAR,"Fargo, ND: Hector International",215.0,0.0,134.0,0.0,69.0,2.13,0.0,4.48,0.0,0.39
+116,11/2022,Horizon Air,PSP,"Palm Springs, CA: Palm Springs International",24.0,0.0,3.0,0.0,44.0,0.92,0.0,0.12,0.0,0.96
+117,12/2022,Endeavor Air Inc.,MYR,"Myrtle Beach, SC: Myrtle Beach International",341.0,0.0,100.0,0.0,127.0,2.91,0.0,3.58,0.0,3.51
+118,12/2023,Republic Airline,IND,"Indianapolis, IN: Indianapolis International",1910.0,31.0,625.0,70.0,1704.0,21.76,1.0,18.28,1.0,17.97
+119,12/2021,Piedmont Airlines,PWM,"Portland, ME: Portland International Jetport",0.0,176.0,87.0,32.0,7.0,0.0,0.93,2.87,1.0,0.2
+120,12/2022,Allegiant Air,PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International",89.0,17.0,332.0,0.0,286.0,2.47,0.74,7.32,0.0,5.47
+121,11/2021,Endeavor Air Inc.,MBS,"Saginaw/Bay City/Midland, MI: MBS International",127.0,0.0,154.0,0.0,180.0,5.03,0.0,5.42,0.0,1.55
+122,12/2021,American Airlines Network,PVD,"Providence, RI: Theodore Francis Green State",135.0,0.0,36.0,0.0,202.0,3.05,0.0,1.35,0.0,2.61
+123,12/2021,Allegiant Air,CLE,"Cleveland, OH: Cleveland-Hopkins International",18.0,0.0,19.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+124,11/2022,Southwest Airlines,TUS,"Tucson, AZ: Tucson International",937.0,0.0,197.0,0.0,1279.0,25.36,0.0,5.8,0.0,29.84
+125,11/2022,Delta Air Lines Network,MDT,"Harrisburg, PA: Harrisburg International",54.0,0.0,17.0,0.0,25.0,2.0,0.0,1.0,0.0,1.0
+126,12/2022,Envoy Air,BOI,"Boise, ID: Boise Air Terminal",21.0,0.0,18.0,0.0,73.0,1.04,0.0,0.69,0.0,2.27
+127,12/2022,Envoy Air,EYW,"Key West, FL: Key West International",54.0,287.0,556.0,0.0,307.0,2.12,3.38,13.32,0.0,7.18
+128,11/2021,Allegiant Air,PVD,"Providence, RI: Theodore Francis Green State",54.0,0.0,10.0,0.0,155.0,1.21,0.0,0.44,0.0,2.34
+129,11/2023,Allegiant Air,IAG,"Niagara Falls, NY: Niagara Falls International",0.0,0.0,85.0,0.0,15.0,0.0,0.0,1.0,0.0,1.0
+130,11/2022,American Airlines Network,DSM,"Des Moines, IA: Des Moines International",285.0,277.0,87.0,0.0,671.0,5.2,0.94,2.08,0.0,7.78
+131,12/2022,JetBlue Airways,JFK,"New York, NY: John F. Kennedy International",43749.0,1549.0,21198.0,130.0,58853.0,531.82,10.82,449.14,2.1,611.12
+132,12/2023,SkyWest Airlines Inc.,MLI,"Moline, IL: Quad Cities International",297.0,1048.0,336.0,0.0,96.0,6.04,4.98,7.97,0.0,3.0
+133,11/2023,Delta Air Lines Network,TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities",144.0,0.0,13.0,0.0,0.0,1.59,0.0,0.41,0.0,0.0
+134,12/2023,American Airlines Network,STL,"St. Louis, MO: St Louis Lambert International",1794.0,42.0,846.0,17.0,3826.0,31.29,0.35,27.46,1.0,54.89
+135,12/2022,Republic Airline,GSO,"Greensboro/High Point, NC: Piedmont Triad International",354.0,0.0,155.0,0.0,986.0,10.37,0.0,5.9,0.0,17.73
+136,11/2022,PSA Airlines Inc.,MKE,"Milwaukee, WI: General Mitchell International",309.0,0.0,50.0,0.0,77.0,4.73,0.0,2.7,0.0,2.57
+137,11/2022,CommuteAir LLC dba CommuteAir,MFE,"Mission/McAllen/Edinburg, TX: McAllen Miller International",63.0,0.0,114.0,0.0,40.0,2.27,0.0,2.91,0.0,0.82
+138,11/2021,Envoy Air,CMI,"Champaign/Urbana, IL: University of Illinois/Willard",226.0,56.0,131.0,0.0,17.0,4.73,1.26,5.0,0.0,1.0
+139,11/2021,SkyWest Airlines Inc.,JST,"Johnstown, PA: John Murtha Johnstown-Cambria County",1737.0,0.0,0.0,0.0,183.0,5.0,0.0,0.0,0.0,2.0
+140,11/2023,Endeavor Air Inc.,IND,"Indianapolis, IN: Indianapolis International",282.0,0.0,143.0,0.0,291.0,6.54,0.0,4.62,0.0,3.84
+141,11/2022,SkyWest Airlines Inc.,DCA,"Washington, DC: Ronald Reagan Washington National",361.0,0.0,0.0,0.0,43.0,8.0,0.0,0.0,0.0,1.0
+142,12/2022,United Air Lines Network,PDX,"Portland, OR: Portland International",3707.0,874.0,1077.0,0.0,2974.0,53.87,3.88,22.96,0.0,32.29
+143,12/2021,Republic Airline,JAX,"Jacksonville, FL: Jacksonville International",774.0,25.0,567.0,55.0,181.0,15.84,0.45,18.34,1.0,5.37
+144,12/2021,Air Wisconsin Airlines Corp,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",11.0,0.0,21.0,0.0,0.0,0.73,0.0,1.27,0.0,0.0
+145,12/2021,Allegiant Air,MSP,"Minneapolis, MN: Minneapolis-St Paul International",325.0,286.0,149.0,0.0,245.0,2.32,0.95,4.63,0.0,2.1
+146,11/2021,United Air Lines Network,BZN,"Bozeman, MT: Bozeman Yellowstone International",135.0,0.0,52.0,0.0,215.0,5.43,0.0,2.14,0.0,4.43
+147,12/2021,Alaska Airlines Network,OKC,"Oklahoma City, OK: Will Rogers World",121.0,36.0,26.0,0.0,62.0,2.35,0.88,0.77,0.0,1.0
+148,12/2023,Allegiant Air,ROA,"Roanoke, VA: Roanoke Blacksburg Regional",111.0,37.0,20.0,0.0,80.0,1.88,0.67,0.34,0.0,2.11
+149,12/2023,JetBlue Airways,MCI,"Kansas City, MO: Kansas City International",434.0,0.0,18.0,0.0,0.0,3.99,0.0,1.01,0.0,0.0
+150,11/2021,JetBlue Airways,BDL,"Hartford, CT: Bradley International",2780.0,0.0,593.0,18.0,1585.0,34.9,0.0,18.95,0.39,21.76
+151,12/2021,Hawaiian Airlines Network,LGB,"Long Beach, CA: Long Beach Airport",298.0,0.0,0.0,0.0,97.0,8.4,0.0,0.0,0.0,2.6
+152,11/2023,Spirit Airlines,MCO,"Orlando, FL: Orlando International",11449.0,202.0,8940.0,152.0,21901.0,159.69,2.92,217.99,5.12,244.28
+153,11/2023,Air Wisconsin Airlines Corp,LEX,"Lexington, KY: Blue Grass",195.0,3.0,94.0,0.0,399.0,3.35,0.13,2.64,0.0,4.89
+154,12/2022,SkyWest Airlines Inc.,TYR,"Tyler, TX: Tyler Pounds Regional",2781.0,450.0,0.0,0.0,324.0,7.0,8.0,0.0,0.0,6.0
+155,11/2022,GoJet Airlines LLC d/b/a United Express,ORF,"Norfolk, VA: Norfolk International",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,11/2022,SkyWest Airlines Inc.,BRO,"Brownsville, TX: Brownsville South Padre Island International",849.0,0.0,0.0,0.0,46.0,8.0,0.0,0.0,0.0,1.0
+157,12/2022,United Air Lines Network,LAS,"Las Vegas, NV: Harry Reid International",7292.0,613.0,3407.0,0.0,9308.0,92.63,7.07,69.85,0.0,101.45
+158,12/2023,Alaska Airlines Network,PSG,"Petersburg, AK: Petersburg James A Johnson",62.0,0.0,10.0,0.0,442.0,1.0,0.0,0.24,0.0,7.76
+159,11/2022,Alaska Airlines Network,RDM,"Bend/Redmond, OR: Roberts Field",147.0,0.0,87.0,0.0,49.0,4.1,0.0,2.57,0.0,1.33
+160,12/2022,GoJet Airlines LLC d/b/a United Express,MLI,"Moline, IL: Quad Cities International",17.0,0.0,128.0,0.0,9.0,0.65,0.0,5.0,0.0,0.35
+161,11/2023,Piedmont Airlines,ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International",159.0,0.0,114.0,0.0,114.0,2.23,0.0,3.6,0.0,3.18
+162,12/2023,Mesa Airlines Inc.,PVD,"Providence, RI: Rhode Island Tf Green International",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+163,11/2023,PSA Airlines Inc.,ORF,"Norfolk, VA: Norfolk International",436.0,7.0,309.0,0.0,1208.0,8.67,0.19,10.9,0.0,20.24
+164,11/2023,American Airlines Network,ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International",3373.0,89.0,881.0,12.0,2889.0,50.38,1.44,29.78,0.26,45.15
+165,12/2021,Spirit Airlines,SMF,"Sacramento, CA: Sacramento International",151.0,0.0,604.0,0.0,345.0,2.56,0.0,10.58,0.0,6.85
+166,12/2021,Endeavor Air Inc.,ROC,"Rochester, NY: Greater Rochester International",1726.0,0.0,204.0,0.0,260.0,15.7,0.0,6.32,0.0,3.98
+167,11/2022,Horizon Air,AKN,"King Salmon, AK: King Salmon Airport",5.0,42.0,33.0,0.0,189.0,0.11,0.89,0.72,0.0,2.28
+168,12/2021,American Airlines Network,CLE,"Cleveland, OH: Cleveland-Hopkins International",1285.0,0.0,602.0,0.0,299.0,26.11,0.0,18.62,0.0,7.27
+169,12/2021,PSA Airlines Inc.,MCI,"Kansas City, MO: Kansas City International",521.0,5.0,165.0,20.0,485.0,3.83,0.12,3.9,1.0,5.15
+170,11/2021,Allegiant Air,OGD,"Ogden, UT: Ogden-Hinckley",17.0,0.0,0.0,0.0,37.0,1.0,0.0,0.0,0.0,1.0
+171,11/2022,Horizon Air,PSC,"Pasco/Kennewick/Richland, WA: Tri Cities",831.0,256.0,230.0,0.0,398.0,15.23,2.65,7.44,0.0,7.68
+172,11/2022,Frontier Airlines,OKC,"Oklahoma City, OK: Will Rogers World",159.0,0.0,69.0,0.0,837.0,2.74,0.0,0.81,0.0,5.44
+173,12/2021,American Airlines Network,DTW,"Detroit, MI: Detroit Metro Wayne County",1402.0,0.0,132.0,48.0,919.0,30.97,0.0,5.44,0.81,17.78
+174,12/2022,Alaska Airlines Network,MIA,"Miami, FL: Miami International",175.0,0.0,187.0,0.0,156.0,4.19,0.0,4.81,0.0,1.0
+175,11/2023,Frontier Airlines,CLT,"Charlotte, NC: Charlotte Douglas International",1048.0,14.0,486.0,0.0,1304.0,14.3,0.58,7.65,0.0,21.47
+176,11/2023,American Airlines Network,FSD,"Sioux Falls, SD: Joe Foss Field",244.0,0.0,48.0,0.0,384.0,4.23,0.0,1.06,0.0,4.71
+177,11/2021,American Airlines Network,CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International",898.0,120.0,141.0,0.0,1016.0,18.2,1.0,6.75,0.0,18.05
+178,11/2023,SkyWest Airlines Inc.,BJI,"Bemidji, MN: Bemidji Regional",49.0,109.0,113.0,0.0,0.0,1.48,1.63,2.88,0.0,0.0
+179,11/2021,Mesa Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",12682.0,822.0,2734.0,17.0,19891.0,106.98,6.22,69.3,1.0,192.51
+180,11/2021,Allegiant Air,SYR,"Syracuse, NY: Syracuse Hancock International",199.0,12.0,605.0,0.0,88.0,3.99,0.22,8.97,0.0,1.83
+181,11/2021,Frontier Airlines,ICT,"Wichita, KS: Wichita Dwight D Eisenhower National",8.0,0.0,11.0,0.0,27.0,0.31,0.0,0.42,0.0,1.27
+182,11/2021,United Air Lines Network,OMA,"Omaha, NE: Eppley Airfield",465.0,0.0,35.0,0.0,347.0,7.61,0.0,0.83,0.0,4.56
+183,12/2021,Alaska Airlines Network,AUS,"Austin, TX: Austin - Bergstrom International",1001.0,177.0,405.0,0.0,648.0,11.65,2.24,9.66,0.0,10.45
+184,11/2023,Mesa Airlines Inc.,DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",924.0,53.0,444.0,0.0,3287.0,19.2,0.38,12.01,0.0,16.41
+185,11/2022,GoJet Airlines LLC d/b/a United Express,SYR,"Syracuse, NY: Syracuse Hancock International",19.0,0.0,80.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0
+186,11/2023,Envoy Air,IAD,"Washington, DC: Washington Dulles International",25.0,10.0,0.0,0.0,100.0,0.65,0.11,0.0,0.0,2.23
+187,11/2023,American Airlines Network,ALB,"Albany, NY: Albany International",405.0,61.0,148.0,39.0,1417.0,11.93,0.91,5.53,0.93,5.7
+188,11/2023,Allegiant Air,MDW,"Chicago, IL: Chicago Midway International",54.0,0.0,28.0,0.0,18.0,1.07,0.0,1.24,0.0,0.69
+189,11/2022,United Air Lines Network,MAF,"Midland/Odessa, TX: Midland International Air and Space Port",91.0,0.0,136.0,0.0,157.0,2.07,0.0,2.92,0.0,3.0
+190,11/2021,Mesa Airlines Inc.,LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+191,11/2023,SkyWest Airlines Inc.,BPT,"Beaumont/Port Arthur, TX: Jack Brooks Regional",47.0,49.0,1857.0,0.0,0.0,0.89,1.0,3.11,0.0,0.0
+192,12/2022,American Airlines Network,GUC,"Gunnison, CO: Gunnison-Crested Butte Regional",61.0,0.0,8.0,0.0,650.0,0.25,0.0,0.1,0.0,4.65
+193,12/2021,"Commutair Aka Champlain Enterprises, Inc.",ORF,"Norfolk, VA: Norfolk International",80.0,0.0,30.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0
+194,12/2022,Endeavor Air Inc.,AGS,"Augusta, GA: Augusta Regional at Bush Field",141.0,50.0,77.0,57.0,163.0,5.12,0.57,1.0,1.0,2.31
+195,12/2023,Endeavor Air Inc.,PIT,"Pittsburgh, PA: Pittsburgh International",230.0,0.0,3.0,0.0,134.0,2.91,0.0,0.13,0.0,1.97
+196,12/2021,Air Wisconsin Airlines Corp,CMH,"Columbus, OH: John Glenn Columbus International",184.0,0.0,118.0,0.0,589.0,4.75,0.0,3.91,0.0,6.33
+197,11/2022,Envoy Air,MCI,"Kansas City, MO: Kansas City International",362.0,99.0,55.0,0.0,647.0,6.42,1.55,0.83,0.0,7.2
+198,11/2022,Horizon Air,BIL,"Billings, MT: Billings Logan International",183.0,116.0,157.0,0.0,45.0,5.01,2.99,5.54,0.0,0.45
+199,12/2022,Alaska Airlines Network,DEN,"Denver, CO: Denver International",515.0,346.0,1295.0,0.0,881.0,10.54,7.4,26.72,0.0,19.34
